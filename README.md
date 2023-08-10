@@ -29,20 +29,9 @@ Here you'll find a portfolio of some projects that I have worked on both in the 
 ## 🔭 Projects:
 
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
-
-## 🌱 I'm currently learning
-
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
-
-
+- My masters thesis project <i>"Probing Pantheon+ for Hints of Parameter Evolution and Anisotropic Expansion of H<sub>0</sub>"</i> 
+- Covid Data Visualisation Project
+  
 </br>
 
 
@@ -58,9 +47,9 @@ Here you'll find a portfolio of some projects that I have worked on both in the 
   <br>
   <br>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ruairi-mcc | Twitter" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />][twitter]
+[<img align="left" alt="ruairi-mcc | LinkedIn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="ruairi-mcc | Instagram" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
 [twitter]: https://twitter.com/ruairi_mcc
 [instagram]: https://www.instagram.com/ruairi_mcc/
