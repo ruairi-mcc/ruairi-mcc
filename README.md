@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruairi-mcc
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning at Atlantic Technological University
+- 🌱 Recently completed my Masters in Data Science at Atlantic Technological University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
