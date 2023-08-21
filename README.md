@@ -29,7 +29,7 @@ Here you'll find a portfolio of some projects that I have worked on both in the 
 ## 🔭 Projects:
 
 
-- My masters thesis project <i>"Probing Pantheon+ for Hints of Parameter Evolution and Anisotropic Expansion of H<sub>0</sub>"</i> 
+- My masters thesis project<a href="https://github.com/ruairi-mcc/probing_pantheon"><i>"Probing Pantheon+ for Hints of Parameter Evolution and Anisotropic Expansion of H<sub>0</sub>"</i> </a>
 - Covid Data Visualisation Project
   
 </br>
