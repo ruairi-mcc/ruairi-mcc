@@ -37,7 +37,7 @@ Here you'll find a portfolio of some projects that I have worked on both in the 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruairi-mcc)](https://github.com/ruairi-mcc)
+[![Ruairi's github stats](https://github-readme-stats.vercel.app/api?username=ruairi-mcc)](https://github.com/ruairi-mcc)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruairi-mcc&layout=compact)](https://github.com/ruairi-mcc)
 
