@@ -41,8 +41,6 @@ Here you'll find a portfolio of some projects that I have worked on both in the 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruairi-mcc&layout=compact)](https://github.com/ruairi-mcc)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
-
 <h3> 🤝 Connect with me:
   <br>
   <br>
