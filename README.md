@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ruairí. I have recently graduated with a Masters in Data Science and am excited to begin my career in data.</h1>
+<h1>Hi, I'm Ruairí. I have over 10 years experience as a quality professional focussed on delivering new projects and products in highly regulated environments. I have recently graduated with a Masters in Data Science and am excited to take my career to the next level.</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
