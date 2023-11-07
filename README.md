@@ -1,4 +1,10 @@
-<h1>Hi, I'm Ruairí. I have over 10 years experience as a quality professional focussed on delivering new projects and products in highly regulated environments. I have recently graduated with a Masters in Data Science and am excited to take my career to the next level.</h1>
+<h1>Hi, I'm Ruairí. I have over 10 years experience making data driven decisions in highly regulated environments.
+
+My career to date has mainly been in quality management, focussed on delivering new projects and products in highly regulated environments. Using data to gain insights into products, processes and markets. I have recently graduated with a Masters in Data Science and am excited to take my career to the next level.
+
+I love to learn new things, my true passion is delving deep into data to extract actionable information. I have a confident, approachable manner, excellent interpersonal and communication skills. I am a self-starter and will strive to excel in the workplace using my skills to solve everyday challenges in an organized, compliant, and efficient manner. 
+
+</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
