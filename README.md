@@ -1,9 +1,4 @@
-<h1>Hi, I'm Ruairí. I have over 10 years experience making data driven decisions in highly regulated environments.
-
-My career to date has mainly been in quality management, focussed on delivering new projects and products in highly regulated environments. Using data to gain insights into products, processes and markets. I have recently graduated with a Masters in Data Science and am excited to take my career to the next level.
-
-I love to learn new things, my true passion is delving deep into data to extract actionable information. I have a confident, approachable manner, excellent interpersonal and communication skills. I am a self-starter and will strive to excel in the workplace using my skills to solve everyday challenges in an organized, compliant, and efficient manner. 
-
+<h1>Hi, I'm Ruairí, a quality management professional with over 10 years of expertise working in highly regulated environments. Throughout my career, I've gained a lot of experience in developing and launching new projects and products, placing a paramount emphasis on harnessing the power of data to drive informed decision-making.
 </h1>
 
 <div align="center">
