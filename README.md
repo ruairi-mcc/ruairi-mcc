@@ -31,7 +31,8 @@ Here you'll find a portfolio of some projects that I have worked on both in the 
 
 
 - My masters thesis project<a href="https://github.com/ruairi-mcc/probing_pantheon"><i>"Probing Pantheon+ for Hints of Parameter Evolution and Anisotropic Expansion of H<sub>0</sub>"</i> </a>
-- <a href="https://github.com/ruairi-mcc/covid-visualisation">Covid Data Visualisation Project</a>
+- <a href="https://github.com/ruairi-mcc/covid-visualisation"> <b>Covid Data Visualisation Project</b> </a>
+- A simple Machine Learning <a href="https://github.com/ruairi-mcc/"><b>Linear Regression</b> </a> project using an Ecommerce dataset from Kaggle.
   
 </br>
 
