@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ruairí, a quality management professional with over 10 years of expertise working in highly regulated environments. Throughout my career, I've gained a lot of experience in developing and launching new projects and products, placing a paramount emphasis on harnessing the power of data to drive informed decision-making.
+<h1>Hi, I'm Ruairí, a data professional with over 10 years of expertise working in highly regulated environments. Throughout my career, I've gained a lot of experience in developing and launching new projects and products, placing a paramount emphasis on harnessing the power of data to drive informed decision-making.
 </h1>
 
 <div align="center">
