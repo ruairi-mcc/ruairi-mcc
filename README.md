@@ -8,6 +8,9 @@
 <h2>I love working with data and diving deep into exploring what differnet datasets can tell us. 
 Here you'll find a portfolio of some projects that I have worked on both in the course of my studies and after.</h2> 
 
+## 🔭 Repository:
+<a href="https://github.com/ruairi-mcc?tab=repositories"><b>Full Repository Here</b> </a>
+
 ### :hammer_and_wrench: Technical Skills :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
@@ -42,11 +45,6 @@ We decompose Pantheon+ Type Ia supernovae (SN) in hemispheres on the sky finding
 - A simple Machine Learning <a href="https://github.com/ruairi-mcc/Linear-Regression"><b>Linear Regression</b> </a> project using an Ecommerce dataset from Kaggle.
   
 </br>
-
-## 🔭 Repository:
-<a href="https://github.com/ruairi-mcc?tab=repositories"><b>Full Repository Here</b> </a>
-
-
 
 
 ## 📈 GitHub Stats 
