@@ -8,8 +8,7 @@
 <h2>I love working with data and diving deep into exploring what differnet datasets can tell us. 
 Here you'll find a portfolio of some projects that I have worked on both in the course of my studies and after.</h2> 
 
-## 🔭 Repository:
-<a href="https://github.com/ruairi-mcc?tab=repositories"><b>Full Repository Here</b> </a>
+## You can see my Github Repository <a href="https://github.com/ruairi-mcc?tab=repositories"><b>here</b> </a>
 
 ### :hammer_and_wrench: Technical Skills :
 <div>
