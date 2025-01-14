@@ -34,6 +34,7 @@ Here you'll find a portfolio of some projects that I have worked on both in the 
 We find that a decreasing H<sub>0</sub> and an increasing Ω<sub>m</sub> best fit trend observed in the Pantheon SNe sample at low significance, persists in the Pantheon+ sample with significance of 1.4σ indicating a possible breakdown of the relatively simple ΛCDM model of the Universe.
 - <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.123533"><i>"Anisotropic distance ladder in Pantheon+ Supernovae"</i> </a>
 We decompose Pantheon+ Type Ia supernovae (SN) in hemispheres on the sky finding angular variations up to 4  km/s/Mpc, corresponding to a statistical significance up to 1.9⁢𝜎, in the Hubble constant 𝐻0 both in the SH0ES redshift range 0.0233<𝑧<0.15 and in extended redshift ranges.
+- <a href="https://github.com/ruairi-mcc/probing_pantheon"><i>Here</i> </a> is some of the code I wrote during this research. 
 
 
 ## 🔭 Projects:
