@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ruairí, a life sceinces professional with over 10 years of expertise working in highly regulated environments. Throughout my career, I've gained a lot of experience in developing and launching new projects and products, placing a paramount emphasis on harnessing the power of data to drive informed decision-making.
+<h1>Hi there! 👋 I'm Ruairí, a life sciences professional turned data scientist with a passion for transforming complex data into actionable insights. With a strong foundation in medical devices and a master's degree in data science, I specialize in blending domain expertise with machine learning, data analysis, and visualization techniques to solve real-world challenges.
 </h1>
 
 <div align="center">
