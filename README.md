@@ -1,9 +1,7 @@
 <h1>Hi there! 👋 I'm Ruairí, a life sciences professional turned data scientist with a passion for transforming complex data into actionable insights. With a strong foundation in medical devices and a master's degree in data science, I specialize in blending domain expertise with machine learning, data analysis, and visualization techniques to solve real-world challenges.
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="250"/>
-</div>
+
 
 <h2>I love working with data and diving deep into exploring what differnet datasets can tell us. 
 Here you'll find a portfolio of some projects that I have worked on both in the course of my studies and after.</h2> 
